@@ -15,7 +15,7 @@ int main(){
     int tam;
     int *ptr = &tam;
     int *vetor1;
-    int *vetor2; 
+    int *vetor2;
 
     printf("Tamnho dos vetores: ");
     scanf("%d", &tam);
